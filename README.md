@@ -8,6 +8,10 @@ How do life, environment and technology reshape planetary dynamics? Which feedba
 - **Daisyworld** - Dark and light daisies alter temperature through albedo while temperature controls their growth. This model produces climate regulation over a range of solar inputs; it demonstrates a mechanism, not that Earth behaves identically. [Watson and Lovelock 1983](<https://doi.org/10.1111/j.1600-0889.1983.tb00031.x> "Biological homeostasis of the global environment: the parable of Daisyworld; Tellus B").
 - **Selection and planetary regulation** - Doolittle proposes selection through persistence of stabilizing processes. Hermida and Okasha challenge whether such persistence explains adaptation. The dispute concerns what selection must explain about planetary feedback. [Doolittle 2017](<https://doi.org/10.1016/j.jtbi.2017.02.015> "Darwinizing Gaia; J. Theor. Biol."), [Hermida and Okasha 2025](<https://doi.org/10.1098/rstb.2024.0099> "Function, chance and purpose in the biosphere: a critical examination of the Darwinized Gaia hypothesis; Phil. Trans. R. Soc. B").
 
+## Constructed ecosystems
+
+- **Biosphere 2 oxygen loss** - Oxygen fell from 21% to 14% over the first 16 months of enclosure. Soil respiration consumed oxygen while concrete absorbed the released carbon dioxide, masking the respiratory imbalance in atmospheric CO2. [Severinghaus et al. 1994](<https://doi.org/10.1029/94EO00285> "Oxygen loss in biosphere 2; Eos, Transactions American Geophysical Union"), [Severinghaus 1995](<https://digital.library.unt.edu/ark:/67531/metadc680127/m2/1/high_res_d/477735.pdf> "Studies of the Terrestrial O2 and Carbon Cycles in Sand Dune Gases and in Biosphere 2; Columbia University dissertation, chapter 3.1").
+
 ## Technology and planetary organization
 
 - **Technosphere** - Treats interconnected technology as a planetary system with energy and material demands that constrain human action. A geological account of technological dependence and persistence, without presuming that the system is an organism. [Haff 2014](<https://doi.org/10.1144/SP395.4> "Technology as a geological phenomenon: implications for human well-being; Geol. Soc. Lond. Spec. Publ.").
