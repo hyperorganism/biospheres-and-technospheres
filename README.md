@@ -28,3 +28,4 @@ How do life, environment and technology reshape planetary dynamics? Which feedba
 - [Ecological organization and individuality](https://hyperorganism.github.io/collective-life/) - Coordinated effects, community persistence and a reproducing collective are separate possibilities.
 - [Recognizing life](https://hyperorganism.github.io/recognizing-life/) - Evidence of biological activity does not by itself establish an organism at planetary scale.
 - [Systems Aesthetics](https://hyperorganism.github.io/systems-aesthetics/)
+- [Engineered Food](https://hyperorganism.github.io/engineered-food/) - Compare the land and energy requirements of reconstructed food-production pathways.
